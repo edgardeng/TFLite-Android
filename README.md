@@ -1,8 +1,8 @@
 # TF Lite Android App
 
-> Android Demo for Tensorflow Lite build from [Tensorflow](https://github.com/tensorflow)
+> Android Demo for Tensorflow Lite build from [Tensorflow](https://github.com/tensorflow/tensorflow)
 
-## how to run
+## How to run
 
 1. install Android Studio
 
@@ -11,7 +11,7 @@
 3. Open . And choose this project
 
 
-## how to build aar
+## How to build aar
 
 1. git clone https://github.com/tensorflow/tensorflow.git
 
